@@ -15,7 +15,7 @@ During these iteration steps, the user interface was extended by:
 - Display separate lists to show IDs which are only present in either CAD or SAP
 - Display differences in the assembly tree
 - Option to ignore certain number circles, e.g. for raw material only shown in SAP or subcomponents only included in CAD
-- Option to choose between several sets of BOM raw data
+- Option to import several sets of BOM raw data for multiple comparisons
 
 ## Conclusion
 I am happy to know that this program is still in use even 2+ years after I left the company on 30.09.2020 due to a Covid savings initiative. 
